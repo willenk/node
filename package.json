@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scr/main.js",
+  "scripts": {
+    "start": "node scr/main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
